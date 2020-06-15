@@ -6,7 +6,8 @@ class Shoe
     @brand = brand
   end  
   
-  def cobble
+  def cobble (condition)
+   puts ""
     @condition = "new"
     puts "The she has been repaired"
   end  
