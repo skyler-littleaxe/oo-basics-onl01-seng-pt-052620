@@ -9,4 +9,5 @@ class Shoe
   def cobble
     @condition = "new"
     puts "The she has been repaired"
+  end  
 end  
